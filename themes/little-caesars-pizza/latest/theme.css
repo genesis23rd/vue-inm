@@ -1,21 +1,25 @@
 #inm-container {
-	background-color: 
+	background-color: #fff;
 }
 
 .search-bar {
-	background-color: #666;
-}
-
-.header {
 	background-color: #ff671b;
 }
 
+.header {
+	background-color: #fff;
+}
+
 .header h1 {
-	color: #fff;
+	color: #ff671b;
 }
 
 .header h2 {
-	color: rgba(255,255,255,.4);
+	color: #222;
+}
+
+.toolbar {
+	background-color: #ff671b;
 }
 
 .list-group-item {
